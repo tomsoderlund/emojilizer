@@ -46,15 +46,12 @@ input[type="text"], textarea, .output {
 	border: none;
 }
 
-textarea {
-}
-
 .input {
 	height: 4em;	
 }
 
 .output {
-	height: 2em;
+	height: 4em;
 	background-color: #EEE;
 	border: 1px solid #DDD;
 }
